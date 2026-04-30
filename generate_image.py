@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 # Initialize OpenAI client
-client = OpenAI(api_key="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")  # Replace with your key
+client = OpenAI(api_key="replace this with your OPENAI key")  # Replace with your key
 
 def generate_image_from_text(prompt: str) -> str:
     prompt = prompt.strip() or "a robot eating an ice cream on Mars"
