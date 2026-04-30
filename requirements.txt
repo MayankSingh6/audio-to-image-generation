@@ -1,0 +1,11 @@
+streamlit==1.35.0
+openai-whisper==20231117
+torch==2.2.2
+torchaudio==2.2.2
+torchvision==0.17.2
+Pillow==10.3.0
+requests==2.31.0
+sounddevice==0.4.6
+soundfile==0.12.1
+pydub==0.25.1
+openai==0.28.0
